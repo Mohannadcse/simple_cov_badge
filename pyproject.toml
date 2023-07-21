@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "simple_cov_badge"
+version = "0.1.0"
+description = ""
+authors = ["Mohannadcse <mohannad.alhanahnah@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^7.4.0"
+pytest-cov = "^4.1.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+mypy = "^1.4.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

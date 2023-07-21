@@ -1,0 +1,1 @@
+[![codecov](https://codecov.io/gh/Mohannadcse/simple_cov_badge/branch/main/graph/badge.svg?token=0O3A3ZW51K)](https://codecov.io/gh/Mohannadcse/simple_cov_badge)
